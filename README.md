@@ -1,2 +1,2 @@
-# simple
+# exercise
 This is a test.
